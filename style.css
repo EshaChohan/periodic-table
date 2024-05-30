@@ -1,0 +1,94 @@
+table {
+    background-color: blanchedalmond;
+    width: 100%;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+    margin-bottom: 40px;
+margin-top: 20px;
+empty-cells: hide;
+padding-top: 150px;
+padding-bottom:200px;
+}
+td {
+    height: 40px;
+    width: 30px;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    line-height: 35px;
+    font-size: 20px;
+}
+h1 {
+    padding-top: 30px;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.empty {
+    padding-bottom: 44px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.lanthanoid {
+    background-color: cadetblue;
+}
+.actinoid {
+    background-color: lightblue;
+}
+.transition-metal {
+    background-color: thistle;
+}
+.rare-earth-metal {
+    background-color: wheat;
+}
+.halogens {
+    background-color: lemonchiffon;
+}
+.other-nonmetal {
+    background-color: lightcoral;
+}
+.other-metal {
+    background-color: coral;
+}
+.alkaline-earth-metal {
+    background-color: orange;
+}
+.alkali-metal {
+    background-color: darkseagreen;
+}
+.noble-gase {
+    background-color: lightskyblue;
+}
+.group {
+background-color: lightseagreen;
+}
+.period {
+background-color: olivedrab;
+}
+div {
+    width: 20px;
+    height: 20px;
+    border-style: solid;
+    border-color: black;
+    margin: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin-top: -25px;
+    line-height: 16px;
+}
+li {
+    margin:10px ;
+    font-size: 18px;
+    padding: 5px;
+    padding-top: -5px;
+}
+.icon {
+    margin-top:-450px ;
+    background-color: bisque;
+    border-style: none;
+}
